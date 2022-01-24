@@ -1,0 +1,28 @@
+_repo: Der-Burger_67161
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frank, Leonhard
+    birthdate: 1882
+    deathdate: 1961
+    gutenberg_agent_id: '34488'
+    url: http://www.gutenberg.org/2009/agents/34488
+description: ''
+gutenberg_issued: '2022-01-14'
+identifiers:
+  gutenberg: '67161'
+language: de
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015011389205
+pgterms:marc905: 20200110214214frank
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This book was produced from images made available by the HathiTrust Digital Library.
+publication_note: Germany :Malik,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Der Bürger
+url: http://www.gutenberg.org/ebooks/67161
