@@ -1,5 +1,8 @@
 _repo: Der-Burger_67161
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67161-h/images/cover.jpg
 creator:
   author:
     agent_name: Frank, Leonhard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '34488'
     url: http://www.gutenberg.org/2009/agents/34488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67161#Der-Burger
 gutenberg_issued: '2022-01-14'
 identifiers:
   gutenberg: '67161'
